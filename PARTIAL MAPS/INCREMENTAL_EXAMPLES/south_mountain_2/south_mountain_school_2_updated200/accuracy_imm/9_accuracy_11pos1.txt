@@ -1,0 +1,47 @@
+./data/OUTPUT/PARZIALI/south_mountain_school_2_updated200//./data/INPUT/IMGs/PARZIALI/south_mountain_school_2_updated200.png
+n_configurazione = 11
+perc_mappa_bwd = 90.0132910443%
+perc_mappa_fwd = 76.6418455429%
+perc_GT_bwd = 92.3938568831%
+perc_GT_fwd = 78.6687790902%
+
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = 919b6985-f1b0-4b60-855a-750ffeb7273b
+id_della_stanza_XML_predizione = fec16c00-7df9-11e8-95a4-080027eeca92
+area_predetta = 5257.90081184
+area_vera= 27208.8113011
+area_vera_esplorata = 44909.4802629
+percentuale_area_vera_esplorata = 165.054914623
+percentuale_area_totale_ambiente_esplorata_bwd = 92.3938568831
+percentuale_area_totale_ambiente_esplorata_fwd = 78.6687790902
+percentuale_matching_mappa_bwd = 90.0132910443
+percentuale_matching_mappa_fwd = 76.6418455429
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 22963.4894121
+area_unione_tra_stanza_originale_e_stanza_predetta = 54412.7029636
+IoU = 0.422024420061
+area_stanza_GT_esplorata = 0.897334392133
+area_mappa_GT_intersezione_contorno = 0.89394115616
+IoU filtrato dal contorno = 0.0853208249595
+tocco bordo = False
+IoU_filtrata_2 = 0.825532256691
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = 61134256-8252-41ee-9035-1436fdd5b61e
+id_della_stanza_XML_predizione = fec16c02-7df9-11e8-95a4-080027eeca92
+area_predetta = 4612.65734589
+area_vera= 52227.5566906
+area_vera_esplorata = 48414.1776575
+percentuale_area_vera_esplorata = 92.698530671
+percentuale_area_totale_ambiente_esplorata_bwd = 92.3938568831
+percentuale_area_totale_ambiente_esplorata_fwd = 78.6687790902
+percentuale_matching_mappa_bwd = 90.0132910443
+percentuale_matching_mappa_fwd = 76.6418455429
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 48687.849985
+area_unione_tra_stanza_originale_e_stanza_predetta = 56566.541709
+IoU = 0.860718165084
+area_stanza_GT_esplorata = 0.929787623888
+area_mappa_GT_intersezione_contorno = 0.89394115616
+IoU filtrato dal contorno = 0.567518439643
+tocco bordo = False
+IoU_filtrata_2 = 0.908609315587

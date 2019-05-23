@@ -1,0 +1,27 @@
+./data/OUTPUT/PARZIALI/south_mountain_school_2_updated240//./data/INPUT/IMGs/PARZIALI/south_mountain_school_2_updated240.png
+n_configurazione = 11
+perc_mappa_bwd = 85.0890202416%
+perc_mappa_fwd = 81.5553043778%
+perc_GT_bwd = 75.4366922465%
+perc_GT_fwd = 72.3038340311%
+
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = 61134256-8252-41ee-9035-1436fdd5b61e
+id_della_stanza_XML_predizione = a40ba902-7dfb-11e8-95a4-080027eeca92
+area_predetta = 3742.67041713
+area_vera= 60538.8163596
+area_vera_esplorata = 49136.0748402
+percentuale_area_vera_esplorata = 81.164578026
+percentuale_area_totale_ambiente_esplorata_bwd = 75.4366922465
+percentuale_area_totale_ambiente_esplorata_fwd = 72.3038340311
+percentuale_matching_mappa_bwd = 85.0890202416
+percentuale_matching_mappa_fwd = 81.5553043778
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 47793.3771415
+area_unione_tra_stanza_originale_e_stanza_predetta = 65624.1844754
+IoU = 0.728289083111
+area_stanza_GT_esplorata = 0.750998994986
+area_mappa_GT_intersezione_contorno = 0.783735906106
+IoU filtrato dal contorno = 0.193301467058
+tocco bordo = False
+IoU_filtrata_2 = 0.776237792414

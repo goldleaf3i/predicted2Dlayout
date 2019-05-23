@@ -1,0 +1,6 @@
+./data/OUTPUT/SCHOOL/putnam_junior_high_updated//./data/INPUT/IMGs/SCHOOL/putnam_junior_high_updated.png
+accuracy_bc = 0.783078453726 +- 0.200603742006
+accuracy_bc_pixels = 0.822644775215
+accuracy_fc = 0.791146625649 +- 0.0375233742148
+accuracy_fc_pixels = 0.87870130187
+

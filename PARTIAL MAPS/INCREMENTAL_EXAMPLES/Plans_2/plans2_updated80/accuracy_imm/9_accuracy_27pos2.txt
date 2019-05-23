@@ -1,0 +1,47 @@
+./data/OUTPUT/PARZIALI/plans2_updated80//./data/INPUT/IMGs/PARZIALI/plans2_updated80.png
+n_configurazione = 27
+perc_mappa_bwd = 81.3757175327%
+perc_mappa_fwd = 57.0306959135%
+perc_GT_bwd = 81.8028441897%
+perc_GT_fwd = 57.3300398852%
+
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = 97c6b11a-d61a-43f5-b1ff-fe83814d38ec
+id_della_stanza_XML_predizione = b122e162-7565-11e8-95a4-080027eeca92
+area_predetta = 2947.50383959
+area_vera= 70717.4114792
+area_vera_esplorata = 113603.015385
+percentuale_area_vera_esplorata = 160.643627939
+percentuale_area_totale_ambiente_esplorata_bwd = 81.8028441897
+percentuale_area_totale_ambiente_esplorata_fwd = 57.3300398852
+percentuale_matching_mappa_bwd = 81.3757175327
+percentuale_matching_mappa_fwd = 57.0306959135
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 67563.7286536
+area_unione_tra_stanza_originale_e_stanza_predetta = 119704.20205
+IoU = 0.564422363597
+area_stanza_GT_esplorata = 1.0
+area_mappa_GT_intersezione_contorno = 0.8313327302
+IoU filtrato dal contorno = 0.0
+tocco bordo = False
+IoU_filtrata_2 = 0.744017109363
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = 18f178ba-f029-4b2f-9e0c-de8709d2b86c
+id_della_stanza_XML_predizione = b122e168-7565-11e8-95a4-080027eeca92
+area_predetta = 6404.07720546
+area_vera= 28617.5734014
+area_vera_esplorata = 42501.4472739
+percentuale_area_vera_esplorata = 148.515203151
+percentuale_area_totale_ambiente_esplorata_bwd = 81.8028441897
+percentuale_area_totale_ambiente_esplorata_fwd = 57.3300398852
+percentuale_matching_mappa_bwd = 81.3757175327
+percentuale_matching_mappa_fwd = 57.0306959135
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 27872.2751965
+area_unione_tra_stanza_originale_e_stanza_predetta = 49650.8226842
+IoU = 0.561365828192
+area_stanza_GT_esplorata = 0.941572881475
+area_mappa_GT_intersezione_contorno = 0.8313327302
+IoU filtrato dal contorno = 0.141725607486
+tocco bordo = False
+IoU_filtrata_2 = 0.936364170572

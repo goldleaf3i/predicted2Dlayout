@@ -1,0 +1,47 @@
+./data/OUTPUT/PARZIALI/battle_creekhs_1_updated90//./data/INPUT/IMGs/PARZIALI/battle_creekhs_1_updated90.png
+n_configurazione = 23
+perc_mappa_bwd = 96.6148357118%
+perc_mappa_fwd = 80.5818713765%
+perc_GT_bwd = 64.4070341694%
+perc_GT_fwd = 53.718865275%
+
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = 480c3c42-0e7e-483e-bd06-d5391c075842
+id_della_stanza_XML_predizione = 8178157c-6b3c-11e8-9773-080027eeca92
+area_predetta = 10643.3954304
+area_vera= 42166.8076981
+area_vera_esplorata = 68152.1549699
+percentuale_area_vera_esplorata = 161.625123386
+percentuale_area_totale_ambiente_esplorata_bwd = 64.4070341694
+percentuale_area_totale_ambiente_esplorata_fwd = 53.718865275
+percentuale_matching_mappa_bwd = 96.6148357118
+percentuale_matching_mappa_fwd = 80.5818713765
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 40853.7093556
+area_unione_tra_stanza_originale_e_stanza_predetta = 80108.6487428
+IoU = 0.509978760056
+area_stanza_GT_esplorata = 0.892606359707
+area_mappa_GT_intersezione_contorno = 0.585562494751
+IoU filtrato dal contorno = 0.329645927885
+tocco bordo = False
+IoU_filtrata_2 = 0.959068071288
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = 185cb871-2be1-47fe-b987-97f9cd81f76c
+id_della_stanza_XML_predizione = 81781578-6b3c-11e8-9773-080027eeca92
+area_predetta = 2791.96209825
+area_vera= 7336.01807213
+area_vera_esplorata = 3349.41231771
+percentuale_area_vera_esplorata = 45.6570892381
+percentuale_area_totale_ambiente_esplorata_bwd = 64.4070341694
+percentuale_area_totale_ambiente_esplorata_fwd = 53.718865275
+percentuale_matching_mappa_bwd = 96.6148357118
+percentuale_matching_mappa_fwd = 80.5818713765
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 5300.70022838
+area_unione_tra_stanza_originale_e_stanza_predetta = 8176.69225972
+IoU = 0.648269503121
+area_stanza_GT_esplorata = 0.474517471344
+area_mappa_GT_intersezione_contorno = 0.585562494751
+IoU filtrato dal contorno = 0.519076872861
+tocco bordo = False
+IoU_filtrata_2 = 0.722558229309

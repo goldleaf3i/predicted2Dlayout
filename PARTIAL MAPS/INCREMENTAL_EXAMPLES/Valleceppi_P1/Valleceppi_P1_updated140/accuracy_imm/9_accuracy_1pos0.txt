@@ -1,0 +1,27 @@
+./data/OUTPUT/PARZIALI/Valleceppi_P1_updated140//./data/INPUT/IMGs/PARZIALI/Valleceppi_P1_updated140.png
+n_configurazione = 1
+perc_mappa_bwd = 90.8453960125%
+perc_mappa_fwd = 87.6947517468%
+perc_GT_bwd = 94.9863380885%
+perc_GT_fwd = 91.6920802114%
+
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = 104d40b1-bfca-440e-a184-35e548e21935
+id_della_stanza_XML_predizione = 78dac3da-6a62-11e8-9773-080027eeca92
+area_predetta = 6138.0503316
+area_vera= 23484.348915
+area_vera_esplorata = 17994.2829909
+percentuale_area_vera_esplorata = 76.62244781
+percentuale_area_totale_ambiente_esplorata_bwd = 94.9863380885
+percentuale_area_totale_ambiente_esplorata_fwd = 91.6920802114
+percentuale_matching_mappa_bwd = 90.8453960125
+percentuale_matching_mappa_fwd = 87.6947517468
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 21595.8130786
+area_unione_tra_stanza_originale_e_stanza_predetta = 26020.8691589
+IoU = 0.829942034092
+area_stanza_GT_esplorata = 0.757716196964
+area_mappa_GT_intersezione_contorno = 0.906959206107
+IoU filtrato dal contorno = 0.532963023917
+tocco bordo = False
+IoU_filtrata_2 = 0.829942034092

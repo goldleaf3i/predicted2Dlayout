@@ -1,0 +1,47 @@
+./data/OUTPUT/PARZIALI/plans2_updated80//./data/INPUT/IMGs/PARZIALI/plans2_updated80.png
+n_configurazione = 1
+perc_mappa_bwd = 87.1364033837%
+perc_mappa_fwd = 59.8786776975%
+perc_GT_bwd = 87.1342126983%
+perc_GT_fwd = 59.8771722952%
+
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = 97c6b11a-d61a-43f5-b1ff-fe83814d38ec
+id_della_stanza_XML_predizione = b122e162-7565-11e8-95a4-080027eeca92
+area_predetta = 2947.50383959
+area_vera= 71090.3818591
+area_vera_esplorata = 113603.015385
+percentuale_area_vera_esplorata = 159.800823141
+percentuale_area_totale_ambiente_esplorata_bwd = 87.1342126983
+percentuale_area_totale_ambiente_esplorata_fwd = 59.8771722952
+percentuale_matching_mappa_bwd = 87.1364033837
+percentuale_matching_mappa_fwd = 59.8786776975
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 69812.7191057
+area_unione_tra_stanza_originale_e_stanza_predetta = 117828.181978
+IoU = 0.592495937167
+area_stanza_GT_esplorata = 1.0
+area_mappa_GT_intersezione_contorno = 0.840195075467
+IoU filtrato dal contorno = 0.0
+tocco bordo = False
+IoU_filtrata_2 = 0.774798511528
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = 18f178ba-f029-4b2f-9e0c-de8709d2b86c
+id_della_stanza_XML_predizione = b122e168-7565-11e8-95a4-080027eeca92
+area_predetta = 6404.07720546
+area_vera= 28768.5052158
+area_vera_esplorata = 42501.4472739
+percentuale_area_vera_esplorata = 147.736029228
+percentuale_area_totale_ambiente_esplorata_bwd = 87.1342126983
+percentuale_area_totale_ambiente_esplorata_fwd = 59.8771722952
+percentuale_matching_mappa_bwd = 87.1364033837
+percentuale_matching_mappa_fwd = 59.8786776975
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 25960.7389691
+area_unione_tra_stanza_originale_e_stanza_predetta = 51713.290726
+IoU = 0.502012898515
+area_stanza_GT_esplorata = 0.882966531267
+area_mappa_GT_intersezione_contorno = 0.840195075467
+IoU filtrato dal contorno = 0.0685528301406
+tocco bordo = False
+IoU_filtrata_2 = 0.866337867581

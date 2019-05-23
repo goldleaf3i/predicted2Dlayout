@@ -1,0 +1,6 @@
+./data/OUTPUT/SCHOOL/rock_island_second_floor_updated//./data/INPUT/IMGs/SCHOOL/rock_island_second_floor_updated.png
+accuracy_bc = 0.860506505056 +- 0.133425734236
+accuracy_bc_pixels = 0.830767000616
+accuracy_fc = 0.814327561114 +- 0.0352501283593
+accuracy_fc_pixels = 0.867732939388
+

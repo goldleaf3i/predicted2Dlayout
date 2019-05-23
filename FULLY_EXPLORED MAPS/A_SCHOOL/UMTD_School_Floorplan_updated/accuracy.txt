@@ -1,0 +1,6 @@
+./data/OUTPUT/SCHOOL/UMTD_School_Floorplan_updated//./data/INPUT/IMGs/SCHOOL/UMTD_School_Floorplan_updated.png
+accuracy_bc = 0.830686293896 +- 0.114364630134
+accuracy_bc_pixels = 0.899510908256
+accuracy_fc = 0.833229688587 +- 0.0273082469788
+accuracy_fc_pixels = 0.915987555542
+

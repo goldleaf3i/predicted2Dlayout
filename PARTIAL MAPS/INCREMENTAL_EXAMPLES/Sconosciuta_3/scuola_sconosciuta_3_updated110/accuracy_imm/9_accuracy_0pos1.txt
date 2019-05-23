@@ -1,0 +1,47 @@
+./data/OUTPUT/PARZIALI/scuola_sconosciuta_3_updated110//./data/INPUT/IMGs/PARZIALI/scuola_sconosciuta_3_updated110.png
+n_configurazione = 0
+perc_mappa_bwd = 90.3695306017%
+perc_mappa_fwd = 90.3695306017%
+perc_GT_bwd = 88.1081041076%
+perc_GT_fwd = 88.1081041076%
+
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = a7b82e09-29d1-49c1-8aa0-1647c741baf2
+id_della_stanza_XML_predizione = 31397f11-6b00-11e8-9773-080027eeca92
+area_predetta = 1276.14723426
+area_vera= 11862.2022902
+area_vera_esplorata = 10438.1751363
+percentuale_area_vera_esplorata = 87.9952548515
+percentuale_area_totale_ambiente_esplorata_bwd = 88.1081041076
+percentuale_area_totale_ambiente_esplorata_fwd = 88.1081041076
+percentuale_matching_mappa_bwd = 90.3695306017
+percentuale_matching_mappa_fwd = 90.3695306017
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 10875.7033333
+area_unione_tra_stanza_originale_e_stanza_predetta = 12700.8213275
+IoU = 0.856299215059
+area_stanza_GT_esplorata = 0.904426093622
+area_mappa_GT_intersezione_contorno = 0.865389867465
+IoU filtrato dal contorno = 0.578679139004
+tocco bordo = False
+IoU_filtrata_2 = 0.856299215059
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = 9a2e9e79-6c3d-48ae-b661-3729ce6ef326
+id_della_stanza_XML_predizione = 31397f0a-6b00-11e8-9773-080027eeca92
+area_predetta = 2736.5218875
+area_vera= 11661.8883105
+area_vera_esplorata = 8481.29291748
+percentuale_area_vera_esplorata = 72.7265833086
+percentuale_area_totale_ambiente_esplorata_bwd = 88.1081041076
+percentuale_area_totale_ambiente_esplorata_fwd = 88.1081041076
+percentuale_matching_mappa_bwd = 90.3695306017
+percentuale_matching_mappa_fwd = 90.3695306017
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 10822.7872446
+area_unione_tra_stanza_originale_e_stanza_predetta = 12056.9158709
+IoU = 0.897641433391
+area_stanza_GT_esplorata = 0.750708484897
+area_mappa_GT_intersezione_contorno = 0.865389867465
+IoU filtrato dal contorno = 0.759563954503
+tocco bordo = False
+IoU_filtrata_2 = 0.905659114522

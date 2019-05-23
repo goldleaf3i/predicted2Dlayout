@@ -1,0 +1,27 @@
+./data/OUTPUT/PARZIALI/sidneyriver_updated240//./data/INPUT/IMGs/PARZIALI/sidneyriver_updated240.png
+n_configurazione = 76
+perc_mappa_bwd = 82.5386959812%
+perc_mappa_fwd = 63.980215998%
+perc_GT_bwd = 83.1372025424%
+perc_GT_fwd = 64.4441508665%
+
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = 6e467329-6d5b-4523-8454-193af31cf93d
+id_della_stanza_XML_predizione = bc1dc0f1-6b33-11e8-9773-080027eeca92
+area_predetta = 6517.51537038
+area_vera= 13277.1144701
+area_vera_esplorata = 20221.8171947
+percentuale_area_vera_esplorata = 152.305813437
+percentuale_area_totale_ambiente_esplorata_bwd = 83.1372025424
+percentuale_area_totale_ambiente_esplorata_fwd = 64.4441508665
+percentuale_matching_mappa_bwd = 82.5386959812
+percentuale_matching_mappa_fwd = 63.980215998
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 13236.817138
+area_unione_tra_stanza_originale_e_stanza_predetta = 26779.6298972
+IoU = 0.494286783979
+area_stanza_GT_esplorata = 0.918890794201
+area_mappa_GT_intersezione_contorno = 0.811580940434
+IoU filtrato dal contorno = 0.159401417597
+tocco bordo = False
+IoU_filtrata_2 = 0.905890905821

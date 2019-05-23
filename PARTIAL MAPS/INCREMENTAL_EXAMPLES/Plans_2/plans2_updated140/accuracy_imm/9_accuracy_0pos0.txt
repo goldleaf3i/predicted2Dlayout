@@ -1,0 +1,27 @@
+./data/OUTPUT/PARZIALI/plans2_updated140//./data/INPUT/IMGs/PARZIALI/plans2_updated140.png
+n_configurazione = 0
+perc_mappa_bwd = 85.8974514928%
+perc_mappa_fwd = 61.4107972432%
+perc_GT_bwd = 90.8772727897%
+perc_GT_fwd = 64.9710285499%
+
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = 18f178ba-f029-4b2f-9e0c-de8709d2b86c
+id_della_stanza_XML_predizione = 9f20fa59-7920-11e8-95a4-080027eeca92
+area_predetta = 6950.36089059
+area_vera= 27119.3249047
+area_vera_esplorata = 85223.7283885
+percentuale_area_vera_esplorata = 314.2546088
+percentuale_area_totale_ambiente_esplorata_bwd = 90.8772727897
+percentuale_area_totale_ambiente_esplorata_fwd = 64.9710285499
+percentuale_matching_mappa_bwd = 85.8974514928
+percentuale_matching_mappa_fwd = 61.4107972432
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 24745.5409514
+area_unione_tra_stanza_originale_e_stanza_predetta = 94547.8732324
+IoU = 0.261724987621
+area_stanza_GT_esplorata = 0.910024320261
+area_mappa_GT_intersezione_contorno = 0.910834241651
+IoU filtrato dal contorno = 0.0333737228697
+tocco bordo = False
+IoU_filtrata_2 = 0.837090316098

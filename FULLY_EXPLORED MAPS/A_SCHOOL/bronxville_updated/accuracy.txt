@@ -1,0 +1,6 @@
+./data/OUTPUT/SCHOOL/bronxville_updated//./data/INPUT/IMGs/SCHOOL/bronxville_updated.png
+accuracy_bc = 0.793726148532 +- 0.136830157713
+accuracy_bc_pixels = 0.815959203265
+accuracy_fc = 0.758147084739 +- 0.0390018154546
+accuracy_fc_pixels = 0.806761133787
+

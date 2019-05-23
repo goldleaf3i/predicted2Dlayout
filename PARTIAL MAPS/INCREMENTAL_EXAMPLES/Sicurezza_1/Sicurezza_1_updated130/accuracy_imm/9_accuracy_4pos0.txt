@@ -1,0 +1,47 @@
+./data/OUTPUT/PARZIALI/Sicurezza_1_updated130//./data/INPUT/IMGs/PARZIALI/Sicurezza_1_updated130.png
+n_configurazione = 4
+perc_mappa_bwd = 92.366405278%
+perc_mappa_fwd = 43.186049157%
+perc_GT_bwd = 79.1920165018%
+perc_GT_fwd = 37.0263442341%
+
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = d37731be-5870-4690-b481-81ff38e984cc
+id_della_stanza_XML_predizione = 04c3f099-6d81-11e8-ade5-080027eeca92
+area_predetta = 14076.1295471
+area_vera= 17345.8769141
+area_vera_esplorata = 80194.5373278
+percentuale_area_vera_esplorata = 462.326221527
+percentuale_area_totale_ambiente_esplorata_bwd = 79.1920165018
+percentuale_area_totale_ambiente_esplorata_fwd = 37.0263442341
+percentuale_matching_mappa_bwd = 92.366405278
+percentuale_matching_mappa_fwd = 43.186049157
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 15739.8646877
+area_unione_tra_stanza_originale_e_stanza_predetta = 95876.6791014
+IoU = 0.164167812603
+area_stanza_GT_esplorata = 0.90778775352
+area_mappa_GT_intersezione_contorno = 0.697229461563
+IoU filtrato dal contorno = 0.0615874821896
+tocco bordo = False
+IoU_filtrata_2 = 0.798141832691
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = f126168f-b746-4e18-8412-6d8786f7d588
+id_della_stanza_XML_predizione = 04c3f096-6d81-11e8-ade5-080027eeca92
+area_predetta = 34614.1643647
+area_vera= 98287.7300779
+area_vera_esplorata = 128983.178944
+percentuale_area_vera_esplorata = 131.230194086
+percentuale_area_totale_ambiente_esplorata_bwd = 79.1920165018
+percentuale_area_totale_ambiente_esplorata_fwd = 37.0263442341
+percentuale_matching_mappa_bwd = 92.366405278
+percentuale_matching_mappa_fwd = 43.186049157
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 53952.1843065
+area_unione_tra_stanza_originale_e_stanza_predetta = 207932.88908
+IoU = 0.259469218867
+area_stanza_GT_esplorata = 0.428051052777
+area_mappa_GT_intersezione_contorno = 0.697229461563
+IoU filtrato dal contorno = 0.152641623319
+tocco bordo = False
+IoU_filtrata_2 = 0.495992463242

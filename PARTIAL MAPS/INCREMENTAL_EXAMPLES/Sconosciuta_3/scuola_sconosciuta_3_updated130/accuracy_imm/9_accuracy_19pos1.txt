@@ -1,0 +1,27 @@
+./data/OUTPUT/PARZIALI/scuola_sconosciuta_3_updated130//./data/INPUT/IMGs/PARZIALI/scuola_sconosciuta_3_updated130.png
+n_configurazione = 19
+perc_mappa_bwd = 89.0052447328%
+perc_mappa_fwd = 80.8008946435%
+perc_GT_bwd = 90.5366797816%
+perc_GT_fwd = 82.1911646484%
+
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = a7b82e09-29d1-49c1-8aa0-1647c741baf2
+id_della_stanza_XML_predizione = bf9cdac2-844b-11e8-95a4-080027eeca92
+area_predetta = 1446.23357184
+area_vera= 11722.990934
+area_vera_esplorata = 10466.6932278
+percentuale_area_vera_esplorata = 89.2834711445
+percentuale_area_totale_ambiente_esplorata_bwd = 90.5366797816
+percentuale_area_totale_ambiente_esplorata_fwd = 82.1911646484
+percentuale_matching_mappa_bwd = 89.0052447328
+percentuale_matching_mappa_fwd = 80.8008946435
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 11217.1449458
+area_unione_tra_stanza_originale_e_stanza_predetta = 12418.7727878
+IoU = 0.903241015629
+area_stanza_GT_esplorata = 0.890415904661
+area_mappa_GT_intersezione_contorno = 0.89231293782
+IoU filtrato dal contorno = 0.672302018298
+tocco bordo = False
+IoU_filtrata_2 = 0.903241015629

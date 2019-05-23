@@ -1,0 +1,27 @@
+./data/OUTPUT/PARZIALI/battle_creekhs_1_updated140//./data/INPUT/IMGs/PARZIALI/battle_creekhs_1_updated140.png
+n_configurazione = 34
+perc_mappa_bwd = 86.7480951843%
+perc_mappa_fwd = 81.1901889172%
+perc_GT_bwd = 85.0841483286%
+perc_GT_fwd = 79.632850289%
+
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = 55fba560-3c63-4000-a9b0-bd7b6224e4a6
+id_della_stanza_XML_predizione = 18913e53-6d59-11e8-ade5-080027eeca92
+area_predetta = 3688.51444406
+area_vera= 9686.70534372
+area_vera_esplorata = 13902.4429672
+percentuale_area_vera_esplorata = 143.520861572
+percentuale_area_totale_ambiente_esplorata_bwd = 85.0841483286
+percentuale_area_totale_ambiente_esplorata_fwd = 79.632850289
+percentuale_matching_mappa_bwd = 86.7480951843
+percentuale_matching_mappa_fwd = 81.1901889172
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 8437.2677691
+area_unione_tra_stanza_originale_e_stanza_predetta = 18840.3949859
+IoU = 0.447828603138
+area_stanza_GT_esplorata = 0.857094428412
+area_mappa_GT_intersezione_contorno = 0.859311916086
+IoU filtrato dal contorno = 0.138629296233
+tocco bordo = False
+IoU_filtrata_2 = 0.83975196244

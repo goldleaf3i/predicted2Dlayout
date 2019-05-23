@@ -1,0 +1,6 @@
+./data/OUTPUT/SCHOOL/henderson_high_school_updated//./data/INPUT/IMGs/SCHOOL/henderson_high_school_updated.png
+accuracy_bc = 0.822732901985 +- 0.150661773342
+accuracy_bc_pixels = 0.888390824419
+accuracy_fc = 0.740526505369 +- 0.0435847707624
+accuracy_fc_pixels = 0.796113441543
+

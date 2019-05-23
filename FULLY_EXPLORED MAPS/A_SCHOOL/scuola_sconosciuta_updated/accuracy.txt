@@ -1,0 +1,6 @@
+./data/OUTPUT/SCHOOL/scuola_sconosciuta_updated//./data/INPUT/IMGs/SCHOOL/scuola_sconosciuta_updated.png
+accuracy_bc = 0.879969941772 +- 0.170358405066
+accuracy_bc_pixels = 0.887320318508
+accuracy_fc = 0.772542046272 +- 0.0478398809547
+accuracy_fc_pixels = 0.885971112993
+

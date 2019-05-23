@@ -1,0 +1,6 @@
+./data/OUTPUT/SCHOOL/indian_head_updated//./data/INPUT/IMGs/SCHOOL/indian_head_updated.png
+accuracy_bc = 0.767803652971 +- 0.135446022747
+accuracy_bc_pixels = 0.777371657047
+accuracy_fc = 0.825502467056 +- 0.0301218433022
+accuracy_fc_pixels = 0.858248419686
+

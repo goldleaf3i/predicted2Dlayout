@@ -1,0 +1,6 @@
+./data/OUTPUT/SCHOOL/battle_creekhs_2_updated//./data/INPUT/IMGs/SCHOOL/battle_creekhs_2_updated.png
+accuracy_bc = 0.895310849973 +- 0.0752797705733
+accuracy_bc_pixels = 0.905543850707
+accuracy_fc = 0.860299263839 +- 0.0491022131529
+accuracy_fc_pixels = 0.932910938017
+

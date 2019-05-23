@@ -1,0 +1,6 @@
+./data/OUTPUT/SCHOOL/plans2_updated//./data/INPUT/IMGs/SCHOOL/plans2_updated.png
+accuracy_bc = 0.912497180611 +- 0.0784019707639
+accuracy_bc_pixels = 0.942282170407
+accuracy_fc = 0.854640437462 +- 0.0458711871885
+accuracy_fc_pixels = 0.875993835643
+

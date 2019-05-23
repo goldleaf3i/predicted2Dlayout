@@ -1,0 +1,6 @@
+./data/OUTPUT/SCHOOL/Valleceppi_P0_updated//./data/INPUT/IMGs/SCHOOL/Valleceppi_P0_updated.png
+accuracy_bc = 0.863472313264 +- 0.119359384464
+accuracy_bc_pixels = 0.880070847429
+accuracy_fc = 0.886950905597 +- 0.00999029896741
+accuracy_fc_pixels = 0.931599947296
+

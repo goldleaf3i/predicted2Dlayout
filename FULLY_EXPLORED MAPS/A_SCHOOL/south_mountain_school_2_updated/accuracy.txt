@@ -1,0 +1,6 @@
+./data/OUTPUT/SCHOOL/south_mountain_school_2_updated//./data/INPUT/IMGs/SCHOOL/south_mountain_school_2_updated.png
+accuracy_bc = 0.80984245996 +- 0.1657966964
+accuracy_bc_pixels = 0.880332641516
+accuracy_fc = 0.852643515585 +- 0.0226895055773
+accuracy_fc_pixels = 0.894515462025
+

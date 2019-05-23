@@ -1,0 +1,23 @@
+il tempo necessario al main e' 46.6550109386
+per trovare le frontiere ci vuole 20.0294959545
+del tempo necessario al main, l'azione geometrica 1 occupa 0.0669569969177
+del tempo necessario al main, l'azione complessa occupa: 0.0559029579163
+in particolare l'azione complessa per ogni stanza impiega
+la stanza  0
+il numero di elementi dell'insieme delle celle confinanti e': 2
+il numero di disposizioni totali ottenuti sono:  4
+il numero di disposizioni legali sono:  2
+il tempo impiegato per processare questa stanza e':  0.0327749252319
+---------------------------------
+la stanza  1
+il numero di elementi dell'insieme delle celle confinanti e': 0
+il numero di disposizioni totali ottenuti sono:  0
+il numero di disposizioni legali sono:  0
+il tempo impiegato per processare questa stanza e':  0.00655388832092
+---------------------------------
+la stanza  2
+il numero di elementi dell'insieme delle celle confinanti e': 3
+il numero di disposizioni totali ottenuti sono:  15
+il numero di disposizioni legali sono:  3
+il tempo impiegato per processare questa stanza e':  0.0165679454803
+---------------------------------

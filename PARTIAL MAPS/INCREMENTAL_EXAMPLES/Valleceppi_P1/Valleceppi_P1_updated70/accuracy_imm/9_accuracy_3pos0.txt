@@ -1,0 +1,67 @@
+./data/OUTPUT/PARZIALI/Valleceppi_P1_updated70//./data/INPUT/IMGs/PARZIALI/Valleceppi_P1_updated70.png
+n_configurazione = 3
+perc_mappa_bwd = 96.4435358755%
+perc_mappa_fwd = 78.5524451652%
+perc_GT_bwd = 59.9113996924%
+perc_GT_fwd = 48.7973288867%
+
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = c2eddf15-d5d9-4218-a80f-73fa5e29d9ea
+id_della_stanza_XML_predizione = dc8fcdff-6aff-11e8-9773-080027eeca92
+area_predetta = 21363.748569
+area_vera= 44660.0377899
+area_vera_esplorata = 44526.4977148
+percentuale_area_vera_esplorata = 99.7009853066
+percentuale_area_totale_ambiente_esplorata_bwd = 59.9113996924
+percentuale_area_totale_ambiente_esplorata_fwd = 48.7973288867
+percentuale_matching_mappa_bwd = 96.4435358755
+percentuale_matching_mappa_fwd = 78.5524451652
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 40898.1186878
+area_unione_tra_stanza_originale_e_stanza_predetta = 69652.1653858
+IoU = 0.587176557416
+area_stanza_GT_esplorata = 0.92586278868
+area_mappa_GT_intersezione_contorno = 0.478005910081
+IoU filtrato dal contorno = 0.095093564638
+tocco bordo = False
+IoU_filtrata_2 = 0.91423518443
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = ee4a0c0e-57fb-4760-b5ee-7be841a38d6e
+id_della_stanza_XML_predizione = dc8fcdfb-6aff-11e8-9773-080027eeca92
+area_predetta = 3223.93563141
+area_vera= 21774.1389782
+area_vera_esplorata = 2208.11520842
+percentuale_area_vera_esplorata = 10.140998965
+percentuale_area_totale_ambiente_esplorata_bwd = 59.9113996924
+percentuale_area_totale_ambiente_esplorata_fwd = 48.7973288867
+percentuale_matching_mappa_bwd = 96.4435358755
+percentuale_matching_mappa_fwd = 78.5524451652
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 5432.05083983
+area_unione_tra_stanza_originale_e_stanza_predetta = 21774.1389782
+IoU = 0.24947258972
+area_stanza_GT_esplorata = 0.149623967303
+area_mappa_GT_intersezione_contorno = 0.478005910081
+IoU filtrato dal contorno = 0.167927449309
+tocco bordo = True
+IoU_filtrata_2 = 0.24947258972
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = 104d40b1-bfca-440e-a184-35e548e21935
+id_della_stanza_XML_predizione = dc8fce00-6aff-11e8-9773-080027eeca92
+area_predetta = 26670.2257175
+area_vera= 43416.7582952
+area_vera_esplorata = 1921.10309912
+percentuale_area_vera_esplorata = 4.42479626428
+percentuale_area_totale_ambiente_esplorata_bwd = 59.9113996924
+percentuale_area_totale_ambiente_esplorata_fwd = 48.7973288867
+percentuale_matching_mappa_bwd = 96.4435358755
+percentuale_matching_mappa_fwd = 78.5524451652
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 27527.05479
+area_unione_tra_stanza_originale_e_stanza_predetta = 44481.0323218
+IoU = 0.61884927919
+area_stanza_GT_esplorata = 0.0834810287961
+area_mappa_GT_intersezione_contorno = 0.478005910081
+IoU filtrato dal contorno = 0.58735178341
+tocco bordo = False
+IoU_filtrata_2 = 0.634019117752

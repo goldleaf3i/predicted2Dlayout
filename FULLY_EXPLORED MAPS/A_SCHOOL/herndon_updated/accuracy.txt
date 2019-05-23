@@ -1,0 +1,6 @@
+./data/OUTPUT/SCHOOL/herndon_updated//./data/INPUT/IMGs/SCHOOL/herndon_updated.png
+accuracy_bc = 0.829481742336 +- 0.177190350763
+accuracy_bc_pixels = 0.892456350495
+accuracy_fc = 0.802186061656 +- 0.0595360201538
+accuracy_fc_pixels = 0.880654923905
+

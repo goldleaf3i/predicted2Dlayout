@@ -1,0 +1,107 @@
+./data/OUTPUT/PARZIALI/battle_creekhs_2_updated30//./data/INPUT/IMGs/PARZIALI/battle_creekhs_2_updated30.png
+n_configurazione = 1
+perc_mappa_bwd = 95.1368227391%
+perc_mappa_fwd = 80.0961966842%
+perc_GT_bwd = 32.9116962787%
+perc_GT_fwd = 27.7085320116%
+
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = 570efb1e-0db6-46fd-a057-b4a15fc82243
+id_della_stanza_XML_predizione = 505dd595-6b32-11e8-9773-080027eeca92
+area_predetta = 12569.6591206
+area_vera= 61000.9141324
+area_vera_esplorata = 78905.9074255
+percentuale_area_vera_esplorata = 129.352008159
+percentuale_area_totale_ambiente_esplorata_bwd = 32.9116962787
+percentuale_area_totale_ambiente_esplorata_fwd = 27.7085320116
+percentuale_matching_mappa_bwd = 95.1368227391
+percentuale_matching_mappa_fwd = 80.0961966842
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 53892.4277574
+area_unione_tra_stanza_originale_e_stanza_predetta = 98584.052921
+IoU = 0.546664761293
+area_stanza_GT_esplorata = 0.837790873151
+area_mappa_GT_intersezione_contorno = 0.281179160083
+IoU filtrato dal contorno = 0.158621356268
+tocco bordo = False
+IoU_filtrata_2 = 0.879104985076
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = 39f90a35-71f5-4d79-89fc-5b9916ef4860
+id_della_stanza_XML_predizione = 505dd591-6b32-11e8-9773-080027eeca92
+area_predetta = 6572.9058662
+area_vera= 65621.8119574
+area_vera_esplorata = 48241.1352322
+percentuale_area_vera_esplorata = 73.5138725878
+percentuale_area_totale_ambiente_esplorata_bwd = 32.9116962787
+percentuale_area_totale_ambiente_esplorata_fwd = 27.7085320116
+percentuale_matching_mappa_bwd = 95.1368227391
+percentuale_matching_mappa_fwd = 80.0961966842
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 53604.5117171
+area_unione_tra_stanza_originale_e_stanza_predetta = 66831.3413387
+IoU = 0.80208642597
+area_stanza_GT_esplorata = 0.725981343499
+area_mappa_GT_intersezione_contorno = 0.281179160083
+IoU filtrato dal contorno = 0.322490038421
+tocco bordo = True
+IoU_filtrata_2 = 0.811099248238
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = 16d16958-d9ab-4fda-bbfb-5251b3d5bee3
+id_della_stanza_XML_predizione = 505dd596-6b32-11e8-9773-080027eeca92
+area_predetta = 10797.4488424
+area_vera= 17125.0621063
+area_vera_esplorata = 5110.01321734
+percentuale_area_vera_esplorata = 29.8393850232
+percentuale_area_totale_ambiente_esplorata_bwd = 32.9116962787
+percentuale_area_totale_ambiente_esplorata_fwd = 27.7085320116
+percentuale_matching_mappa_bwd = 95.1368227391
+percentuale_matching_mappa_fwd = 80.0961966842
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 13400.7193786
+area_unione_tra_stanza_originale_e_stanza_predetta = 19631.8047874
+IoU = 0.682602517892
+area_stanza_GT_esplorata = 0.252281549348
+area_mappa_GT_intersezione_contorno = 0.281179160083
+IoU filtrato dal contorno = 0.644356497331
+tocco bordo = False
+IoU_filtrata_2 = 0.777636369495
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = 97192e45-f7b1-4895-bc93-c4e13f278332
+id_della_stanza_XML_predizione = 505dd594-6b32-11e8-9773-080027eeca92
+area_predetta = 7851.18339059
+area_vera= 18827.4426334
+area_vera_esplorata = 8796.61033825
+percentuale_area_vera_esplorata = 46.7222793319
+percentuale_area_totale_ambiente_esplorata_bwd = 32.9116962787
+percentuale_area_totale_ambiente_esplorata_fwd = 27.7085320116
+percentuale_matching_mappa_bwd = 95.1368227391
+percentuale_matching_mappa_fwd = 80.0961966842
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 14666.5370563
+area_unione_tra_stanza_originale_e_stanza_predetta = 20808.699306
+IoU = 0.704827189854
+area_stanza_GT_esplorata = 0.448735411816
+area_mappa_GT_intersezione_contorno = 0.281179160083
+IoU filtrato dal contorno = 0.540472870037
+tocco bordo = False
+IoU_filtrata_2 = 0.778997835334
+------------------------
+ informazioni stanza parziale
+id_della_stanza_XML_GT = 2131d157-c89d-40c5-b2f1-c76b3e24c740
+id_della_stanza_XML_predizione = 505dd590-6b32-11e8-9773-080027eeca92
+area_predetta = 6740.81563015
+area_vera= 85721.2935722
+area_vera_esplorata = 32873.2295709
+percentuale_area_vera_esplorata = 38.3489658182
+percentuale_area_totale_ambiente_esplorata_bwd = 32.9116962787
+percentuale_area_totale_ambiente_esplorata_fwd = 27.7085320116
+percentuale_matching_mappa_bwd = 95.1368227391
+percentuale_matching_mappa_fwd = 80.0961966842
+area_intersezione_tra_stanza_originale_e_stanza_predetta = 35479.703465
+area_unione_tra_stanza_originale_e_stanza_predetta = 89855.6353082
+IoU = 0.394852291048
+area_stanza_GT_esplorata = 0.421285642914
+area_mappa_GT_intersezione_contorno = 0.281179160083
+IoU filtrato dal contorno = 0.0532823374997
+tocco bordo = True
+IoU_filtrata_2 = 0.394869679397
