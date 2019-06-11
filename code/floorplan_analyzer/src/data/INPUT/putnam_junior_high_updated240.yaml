@@ -1,0 +1,7 @@
+image: /home/matteo/Desktop/mappe_salvate/putnam_junior_high_updated240.pgm
+resolution: 0.100000
+origin: [-71.198991, -17.450744, -nan]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+

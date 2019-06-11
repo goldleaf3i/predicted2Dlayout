@@ -1,0 +1,13 @@
+31/07 	Successfully added map Conversion
+10/08 	Problem with MCMC and azione_complessa/azione_semplice.
+	which is the difference?
+10/08 	Fix par.mappa_completa. Try to use the of Ground Truth
+	when it shouldn't.
+11/08	NOTE1:Removed part from row 370 to row 379(signed as not 
+	necessary).       
+15/08	NOTE2:Removed commented part to check(If the part was equal to 
+	the followed code). Row 251.
+15/08	Can azioni_semplici e azioni_complesse be substituted with 		a single variable? It is a choice to be made? Row 245 and 455.
+16/08	Really needed part for the accuracy?
+16/08	XML is written wrong.
+17/08	Modified util_xml, row 24.

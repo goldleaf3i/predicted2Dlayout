@@ -1,0 +1,6 @@
+
+---
+uint32[] indexList
+int32[]  clusterList
+uint32[]  frontiersLenght
+uint8 	 frontierNumber
