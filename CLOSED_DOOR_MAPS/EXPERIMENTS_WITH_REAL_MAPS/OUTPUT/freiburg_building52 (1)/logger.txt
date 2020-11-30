@@ -1,0 +1,198 @@
+Log: 
+./data/INPUT/freiburg_building52 (1).png
+Walls 1555
+Lines 1555
+Canny,Hough,Walls in: 5.93003296852 secondi
+X: 1.0 1580
+Y: 0 856
+Creazione Edges,Pesi edges,Creazione Celle: 173.030764103 secondi
+Utilizzato metodo di classificazione: 2
+Classificazione Celle non parziali: 13.6478888988
+DBSCAN in: 2.43758511543 secondi
+Ricerca,Creazione Celle Parziali in: 5.65077805519 secondi
+Inizio predizione di tipo: complessa
+l'iou baseline stanza 0 vale :0.0
+l'iou baseline stanza 1 vale :0.0
+l'iou baseline vale :0.0
+Il numero di combinazioni sono: 7
+-15.1799102617
+-15.9295783293
+-24.4230474491
+-56.6855423261
+-58.9178457457
+-10.4723679896
+Max score: -10.472367989617508
+Score originale: -20.27505757198258
+-------------------
+Il numero di combinazioni sono: 3
+11.6562426872
+5.32522605032
+11.1910129834
+Max score: 11.656242687219866
+Score originale: 2.827423446092112
+-------------------
+Predizione complessa in: 0.37962603569
+l'iou vale :0.0
+Il numero di combinazioni sono: 7
+-12.5061758559
+2.46752238388
+-42.9861591669
+-8.53822255015
+-1.7050140298
+-48.9401479486
+-7.86208543093
+Max score: 2.4675223838823097
+Score originale: 4.65263201038249
+-------------------
+Il numero di combinazioni sono: 3
+11.1910129834
+13.3817851656
+16.1193955287
+Max score: 16.119395528686248
+Score originale: 11.656242687219866
+-------------------
+Predizione complessa in: 0.802964925766
+l'iou vale :0.0
+Il numero di combinazioni sono: 3
+-2.00617585592
+-42.4861591669
+-1.28834736314
+Max score: -1.2883473631356086
+Score originale: 5.27763201038249
+-------------------
+Il numero di combinazioni sono: 3
+-24.1071587482
+-24.7144027714
+6.68558279523
+Max score: 6.685582795229072
+Score originale: 16.119395528686248
+-------------------
+Predizione complessa in: 1.3349480629
+l'iou vale :0.0
+Il numero di combinazioni sono: 3
+-2.00617585592
+-42.4861591669
+-1.28834736314
+Max score: -1.2883473631356086
+Score originale: 5.27763201038249
+-------------------
+Il numero di combinazioni sono: 3
+-24.1071587482
+-24.7144027714
+6.68558279523
+Max score: 6.685582795229072
+Score originale: 16.119395528686248
+-------------------
+Predizione complessa in: 1.7226960659
+l'iou vale :0.0
+Il numero di combinazioni sono: 3
+-2.00617585592
+-42.4861591669
+-1.28834736314
+Max score: -1.2883473631356086
+Score originale: 5.27763201038249
+-------------------
+Il numero di combinazioni sono: 3
+-24.1071587482
+-24.7144027714
+6.68558279523
+Max score: 6.685582795229072
+Score originale: 16.119395528686248
+-------------------
+Predizione complessa in: 2.13149094582
+l'iou vale :0.0
+Il numero di combinazioni sono: 3
+-2.00617585592
+-42.4861591669
+-1.28834736314
+Max score: -1.2883473631356086
+Score originale: 5.27763201038249
+-------------------
+Il numero di combinazioni sono: 3
+-24.1071587482
+-24.7144027714
+6.68558279523
+Max score: 6.685582795229072
+Score originale: 16.119395528686248
+-------------------
+Predizione complessa in: 2.52694201469
+l'iou vale :0.0
+Il numero di combinazioni sono: 3
+-2.00617585592
+-42.4861591669
+-1.28834736314
+Max score: -1.2883473631356086
+Score originale: 5.27763201038249
+-------------------
+Il numero di combinazioni sono: 3
+-24.1071587482
+-24.7144027714
+6.68558279523
+Max score: 6.685582795229072
+Score originale: 16.119395528686248
+-------------------
+Predizione complessa in: 2.97583198547
+l'iou vale :0.0
+Il numero di combinazioni sono: 3
+-2.00617585592
+-42.4861591669
+-1.28834736314
+Max score: -1.2883473631356086
+Score originale: 5.27763201038249
+-------------------
+Il numero di combinazioni sono: 3
+-24.1071587482
+-24.7144027714
+6.68558279523
+Max score: 6.685582795229072
+Score originale: 16.119395528686248
+-------------------
+Predizione complessa in: 3.36748290062
+l'iou vale :0.0
+Il numero di combinazioni sono: 3
+-2.00617585592
+-42.4861591669
+-1.28834736314
+Max score: -1.2883473631356086
+Score originale: 5.27763201038249
+-------------------
+Il numero di combinazioni sono: 3
+-24.1071587482
+-24.7144027714
+6.68558279523
+Max score: 6.685582795229072
+Score originale: 16.119395528686248
+-------------------
+Predizione complessa in: 3.83643102646
+l'iou vale :0.0
+Il numero di combinazioni sono: 3
+-2.00617585592
+-42.4861591669
+-1.28834736314
+Max score: -1.2883473631356086
+Score originale: 5.27763201038249
+-------------------
+Il numero di combinazioni sono: 3
+-24.1071587482
+-24.7144027714
+6.68558279523
+Max score: 6.685582795229072
+Score originale: 16.119395528686248
+-------------------
+Predizione complessa in: 4.25281095505
+l'iou vale :0.0
+Tocco bordo: False
+Le celle sono: 6
+I pixel grigi della cella sono: 0
+I pixel grigi della cella sono: 0
+I pixel grigi della cella sono: 0
+I pixel grigi della cella sono: 0
+I pixel grigi della cella sono: 0
+I pixel grigi della cella sono: 0
+--------------------
+Tocco bordo: False
+Le celle sono: 2
+I pixel grigi della cella sono: 0
+I pixel grigi della cella sono: 0
+--------------------
+Tempistica totale: 221.740574837

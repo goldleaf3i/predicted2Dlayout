@@ -1,0 +1,182 @@
+Log: 
+./data/INPUT/map15 (7).png
+Walls 851
+Lines 851
+Canny,Hough,Walls in: 2.67382216454 secondi
+X: 67.0 991.0
+Y: 228.0 550.0
+Creazione Edges,Pesi edges,Creazione Celle: 22.6933279037 secondi
+Utilizzato metodo di classificazione: 2
+Classificazione Celle non parziali: 2.84923410416
+DBSCAN in: 1.05288481712 secondi
+Ricerca,Creazione Celle Parziali in: 2.64452004433 secondi
+Inizio predizione di tipo: complessa
+l'iou baseline stanza 0 vale :0.0
+l'iou baseline stanza 1 vale :0.0
+l'iou baseline stanza 2 vale :0.0
+l'iou baseline stanza 3 vale :0.0
+l'iou baseline vale :0.0
+Il numero di combinazioni sono: 3
+-41.4793414378
+0.899665677361
+-42.0881447108
+Max score: 0.8996656773611864
+Score originale: -4.078173324434907
+-------------------
+Il numero di combinazioni sono: 1
+1.40328703852
+Max score: 1.4032870385180223
+Score originale: 0.3945311380690204
+-------------------
+Il numero di combinazioni sono: 1
+3.19831446097
+Max score: 3.1983144609711807
+Score originale: 2.367396073888649
+-------------------
+Il numero di combinazioni sono: 1
+5.21264498984
+Max score: 5.212644989843649
+Score originale: 3.019223397111136
+-------------------
+Predizione complessa in: 0.218588829041
+l'iou vale :0.0
+Il numero di combinazioni sono: 3
+-1.94962718473
+-1.25481137744
+3.43342121663
+Max score: 3.433421216631576
+Score originale: 0.8996656773611864
+-------------------
+Il numero di combinazioni sono: 1
+3.13580399967
+Max score: 3.1358039996690534
+Score originale: 2.737159916912734
+-------------------
+Il numero di combinazioni sono: 0
+-------------------
+Il numero di combinazioni sono: 0
+-------------------
+Predizione complessa in: 0.440361976624
+l'iou vale :0.0
+Il numero di combinazioni sono: 3
+2.96517207225
+2.55659189301
+4.80828787565
+Max score: 4.808287875649818
+Score originale: 3.433421216631576
+-------------------
+Il numero di combinazioni sono: 1
+4.52269403468
+Max score: 4.522694034680695
+Score originale: 3.9691373330023865
+-------------------
+Il numero di combinazioni sono: 0
+-------------------
+Il numero di combinazioni sono: 0
+-------------------
+Predizione complessa in: 0.714251995087
+l'iou vale :0.0
+Il numero di combinazioni sono: 3
+4.46718024366
+4.03787727602
+6.15726118103
+Max score: 6.157261181033765
+Score originale: 4.808287875649818
+-------------------
+Il numero di combinazioni sono: 0
+-------------------
+Il numero di combinazioni sono: 0
+-------------------
+Il numero di combinazioni sono: 0
+-------------------
+Predizione complessa in: 0.94465303421
+l'iou vale :0.0
+Il numero di combinazioni sono: 0
+-------------------
+Il numero di combinazioni sono: 0
+-------------------
+Il numero di combinazioni sono: 0
+-------------------
+Il numero di combinazioni sono: 0
+-------------------
+Predizione complessa in: 1.15814685822
+l'iou vale :0.0
+Il numero di combinazioni sono: 0
+-------------------
+Il numero di combinazioni sono: 0
+-------------------
+Il numero di combinazioni sono: 0
+-------------------
+Il numero di combinazioni sono: 0
+-------------------
+Predizione complessa in: 1.37418794632
+l'iou vale :0.0
+Il numero di combinazioni sono: 0
+-------------------
+Il numero di combinazioni sono: 0
+-------------------
+Il numero di combinazioni sono: 0
+-------------------
+Il numero di combinazioni sono: 0
+-------------------
+Predizione complessa in: 1.58943605423
+l'iou vale :0.0
+Il numero di combinazioni sono: 0
+-------------------
+Il numero di combinazioni sono: 0
+-------------------
+Il numero di combinazioni sono: 0
+-------------------
+Il numero di combinazioni sono: 0
+-------------------
+Predizione complessa in: 1.80236792564
+l'iou vale :0.0
+Il numero di combinazioni sono: 0
+-------------------
+Il numero di combinazioni sono: 0
+-------------------
+Il numero di combinazioni sono: 0
+-------------------
+Il numero di combinazioni sono: 0
+-------------------
+Predizione complessa in: 2.05725193024
+l'iou vale :0.0
+Il numero di combinazioni sono: 0
+-------------------
+Il numero di combinazioni sono: 0
+-------------------
+Il numero di combinazioni sono: 0
+-------------------
+Il numero di combinazioni sono: 0
+-------------------
+Predizione complessa in: 2.27341604233
+l'iou vale :0.0
+Tocco bordo: False
+Le celle sono: 8
+I pixel grigi della cella sono: 0
+I pixel grigi della cella sono: 0
+I pixel grigi della cella sono: 0
+I pixel grigi della cella sono: 0
+I pixel grigi della cella sono: 0
+I pixel grigi della cella sono: 0
+I pixel grigi della cella sono: 0
+I pixel grigi della cella sono: 0
+--------------------
+Tocco bordo: False
+Le celle sono: 4
+I pixel grigi della cella sono: 0
+I pixel grigi della cella sono: 0
+I pixel grigi della cella sono: 0
+I pixel grigi della cella sono: 0
+--------------------
+Tocco bordo: False
+Le celle sono: 2
+I pixel grigi della cella sono: 0
+I pixel grigi della cella sono: 0
+--------------------
+Tocco bordo: False
+Le celle sono: 2
+I pixel grigi della cella sono: 0
+I pixel grigi della cella sono: 0
+--------------------
+Tempistica totale: 41.0459411144

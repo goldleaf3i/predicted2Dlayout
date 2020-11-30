@@ -1,0 +1,366 @@
+Log: 
+./data/INPUT/g4s_y2 (2).png
+Walls 897
+Lines 897
+Canny,Hough,Walls in: 3.13955497742 secondi
+X: 14.0 1190.0
+Y: 40.0 441.0
+Creazione Edges,Pesi edges,Creazione Celle: 20.9750468731 secondi
+Utilizzato metodo di classificazione: 2
+Classificazione Celle non parziali: 3.66079711914
+DBSCAN in: 0.725010871887 secondi
+Ricerca,Creazione Celle Parziali in: 2.67752504349 secondi
+Inizio predizione di tipo: complessa
+l'iou baseline stanza 0 vale :0.0
+l'iou baseline stanza 1 vale :0.0
+l'iou baseline stanza 2 vale :0.0
+l'iou baseline stanza 3 vale :0.0
+l'iou baseline stanza 4 vale :0.0
+l'iou baseline stanza 5 vale :0.0
+l'iou baseline vale :0.0
+Il numero di combinazioni sono: 1
+-38.0999575956
+Max score: -38.09995759559214
+Score originale: 3.8498740198599117
+-------------------
+Il numero di combinazioni sono: 1
+-37.8505723673
+Max score: -37.85057236731228
+Score originale: 3.9374626266863366
+-------------------
+Il numero di combinazioni sono: 1
+6.49403320169
+Max score: 6.494033201686841
+Score originale: 5.419278020784869
+-------------------
+Il numero di combinazioni sono: 1
+-34.4414267937
+Max score: -34.44142679369316
+Score originale: 5.697652109810871
+-------------------
+Il numero di combinazioni sono: 1
+-34.3352328216
+Max score: -34.335232821571935
+Score originale: 5.7924834342446605
+-------------------
+Il numero di combinazioni sono: 1
+-34.5888783006
+Max score: -34.5888783006486
+Score originale: 4.168618205243398
+-------------------
+Predizione complessa in: 0.215173959732
+l'iou vale :0.0
+Il numero di combinazioni sono: 1
+-38.0999575956
+Max score: -38.09995759559214
+Score originale: 3.8498740198599117
+-------------------
+Il numero di combinazioni sono: 1
+3.39942763269
+Max score: 3.3994276326877184
+Score originale: 3.9374626266863366
+-------------------
+Il numero di combinazioni sono: 1
+-34.4414267937
+Max score: -34.44142679369316
+Score originale: 5.697652109810871
+-------------------
+Il numero di combinazioni sono: 1
+-34.3352328216
+Max score: -34.335232821571935
+Score originale: 5.7924834342446605
+-------------------
+Il numero di combinazioni sono: 1
+4.90696588632
+Max score: 4.906965886319242
+Score originale: 6.494033201686841
+-------------------
+Il numero di combinazioni sono: 1
+-34.5888783006
+Max score: -34.5888783006486
+Score originale: 4.168618205243398
+-------------------
+Predizione complessa in: 0.428312063217
+l'iou vale :0.0
+Il numero di combinazioni sono: 1
+-38.0999575956
+Max score: -38.09995759559214
+Score originale: 3.8498740198599117
+-------------------
+Il numero di combinazioni sono: 1
+3.39942763269
+Max score: 3.3994276326877184
+Score originale: 3.9374626266863366
+-------------------
+Il numero di combinazioni sono: 1
+-34.4414267937
+Max score: -34.44142679369316
+Score originale: 5.697652109810871
+-------------------
+Il numero di combinazioni sono: 1
+-34.3352328216
+Max score: -34.335232821571935
+Score originale: 5.7924834342446605
+-------------------
+Il numero di combinazioni sono: 1
+4.90696588632
+Max score: 4.906965886319242
+Score originale: 6.494033201686841
+-------------------
+Il numero di combinazioni sono: 1
+-34.5888783006
+Max score: -34.5888783006486
+Score originale: 4.168618205243398
+-------------------
+Predizione complessa in: 0.644496917725
+l'iou vale :0.0
+Il numero di combinazioni sono: 1
+-38.0999575956
+Max score: -38.09995759559214
+Score originale: 3.8498740198599117
+-------------------
+Il numero di combinazioni sono: 1
+3.39942763269
+Max score: 3.3994276326877184
+Score originale: 3.9374626266863366
+-------------------
+Il numero di combinazioni sono: 1
+-34.4414267937
+Max score: -34.44142679369316
+Score originale: 5.697652109810871
+-------------------
+Il numero di combinazioni sono: 1
+-34.3352328216
+Max score: -34.335232821571935
+Score originale: 5.7924834342446605
+-------------------
+Il numero di combinazioni sono: 1
+4.90696588632
+Max score: 4.906965886319242
+Score originale: 6.494033201686841
+-------------------
+Il numero di combinazioni sono: 1
+-34.5888783006
+Max score: -34.5888783006486
+Score originale: 4.168618205243398
+-------------------
+Predizione complessa in: 0.900950908661
+l'iou vale :0.0
+Il numero di combinazioni sono: 1
+-38.0999575956
+Max score: -38.09995759559214
+Score originale: 3.8498740198599117
+-------------------
+Il numero di combinazioni sono: 1
+3.39942763269
+Max score: 3.3994276326877184
+Score originale: 3.9374626266863366
+-------------------
+Il numero di combinazioni sono: 1
+-34.4414267937
+Max score: -34.44142679369316
+Score originale: 5.697652109810871
+-------------------
+Il numero di combinazioni sono: 1
+-34.3352328216
+Max score: -34.335232821571935
+Score originale: 5.7924834342446605
+-------------------
+Il numero di combinazioni sono: 1
+4.90696588632
+Max score: 4.906965886319242
+Score originale: 6.494033201686841
+-------------------
+Il numero di combinazioni sono: 1
+-34.5888783006
+Max score: -34.5888783006486
+Score originale: 4.168618205243398
+-------------------
+Predizione complessa in: 1.11338210106
+l'iou vale :0.0
+Il numero di combinazioni sono: 1
+-38.0999575956
+Max score: -38.09995759559214
+Score originale: 3.8498740198599117
+-------------------
+Il numero di combinazioni sono: 1
+3.39942763269
+Max score: 3.3994276326877184
+Score originale: 3.9374626266863366
+-------------------
+Il numero di combinazioni sono: 1
+-34.4414267937
+Max score: -34.44142679369316
+Score originale: 5.697652109810871
+-------------------
+Il numero di combinazioni sono: 1
+-34.3352328216
+Max score: -34.335232821571935
+Score originale: 5.7924834342446605
+-------------------
+Il numero di combinazioni sono: 1
+4.90696588632
+Max score: 4.906965886319242
+Score originale: 6.494033201686841
+-------------------
+Il numero di combinazioni sono: 1
+-34.5888783006
+Max score: -34.5888783006486
+Score originale: 4.168618205243398
+-------------------
+Predizione complessa in: 1.32790493965
+l'iou vale :0.0
+Il numero di combinazioni sono: 1
+-38.0999575956
+Max score: -38.09995759559214
+Score originale: 3.8498740198599117
+-------------------
+Il numero di combinazioni sono: 1
+3.39942763269
+Max score: 3.3994276326877184
+Score originale: 3.9374626266863366
+-------------------
+Il numero di combinazioni sono: 1
+-34.4414267937
+Max score: -34.44142679369316
+Score originale: 5.697652109810871
+-------------------
+Il numero di combinazioni sono: 1
+-34.3352328216
+Max score: -34.335232821571935
+Score originale: 5.7924834342446605
+-------------------
+Il numero di combinazioni sono: 1
+4.90696588632
+Max score: 4.906965886319242
+Score originale: 6.494033201686841
+-------------------
+Il numero di combinazioni sono: 1
+-34.5888783006
+Max score: -34.5888783006486
+Score originale: 4.168618205243398
+-------------------
+Predizione complessa in: 1.54078102112
+l'iou vale :0.0
+Il numero di combinazioni sono: 1
+-38.0999575956
+Max score: -38.09995759559214
+Score originale: 3.8498740198599117
+-------------------
+Il numero di combinazioni sono: 1
+3.39942763269
+Max score: 3.3994276326877184
+Score originale: 3.9374626266863366
+-------------------
+Il numero di combinazioni sono: 1
+-34.4414267937
+Max score: -34.44142679369316
+Score originale: 5.697652109810871
+-------------------
+Il numero di combinazioni sono: 1
+-34.3352328216
+Max score: -34.335232821571935
+Score originale: 5.7924834342446605
+-------------------
+Il numero di combinazioni sono: 1
+4.90696588632
+Max score: 4.906965886319242
+Score originale: 6.494033201686841
+-------------------
+Il numero di combinazioni sono: 1
+-34.5888783006
+Max score: -34.5888783006486
+Score originale: 4.168618205243398
+-------------------
+Predizione complessa in: 1.75706291199
+l'iou vale :0.0
+Il numero di combinazioni sono: 1
+-38.0999575956
+Max score: -38.09995759559214
+Score originale: 3.8498740198599117
+-------------------
+Il numero di combinazioni sono: 1
+3.39942763269
+Max score: 3.3994276326877184
+Score originale: 3.9374626266863366
+-------------------
+Il numero di combinazioni sono: 1
+-34.4414267937
+Max score: -34.44142679369316
+Score originale: 5.697652109810871
+-------------------
+Il numero di combinazioni sono: 1
+-34.3352328216
+Max score: -34.335232821571935
+Score originale: 5.7924834342446605
+-------------------
+Il numero di combinazioni sono: 1
+4.90696588632
+Max score: 4.906965886319242
+Score originale: 6.494033201686841
+-------------------
+Il numero di combinazioni sono: 1
+-34.5888783006
+Max score: -34.5888783006486
+Score originale: 4.168618205243398
+-------------------
+Predizione complessa in: 1.97114109993
+l'iou vale :0.0
+Il numero di combinazioni sono: 1
+-38.0999575956
+Max score: -38.09995759559214
+Score originale: 3.8498740198599117
+-------------------
+Il numero di combinazioni sono: 1
+3.39942763269
+Max score: 3.3994276326877184
+Score originale: 3.9374626266863366
+-------------------
+Il numero di combinazioni sono: 1
+-34.4414267937
+Max score: -34.44142679369316
+Score originale: 5.697652109810871
+-------------------
+Il numero di combinazioni sono: 1
+-34.3352328216
+Max score: -34.335232821571935
+Score originale: 5.7924834342446605
+-------------------
+Il numero di combinazioni sono: 1
+4.90696588632
+Max score: 4.906965886319242
+Score originale: 6.494033201686841
+-------------------
+Il numero di combinazioni sono: 1
+-34.5888783006
+Max score: -34.5888783006486
+Score originale: 4.168618205243398
+-------------------
+Predizione complessa in: 2.22930908203
+l'iou vale :0.0
+Tocco bordo: False
+Le celle sono: 2
+I pixel grigi della cella sono: 0
+I pixel grigi della cella sono: 0
+--------------------
+Tocco bordo: False
+Le celle sono: 1
+I pixel grigi della cella sono: 0
+--------------------
+Tocco bordo: False
+Le celle sono: 1
+I pixel grigi della cella sono: 0
+--------------------
+Tocco bordo: False
+Le celle sono: 1
+I pixel grigi della cella sono: 0
+--------------------
+Tocco bordo: False
+Le celle sono: 1
+I pixel grigi della cella sono: 0
+--------------------
+Tocco bordo: False
+Le celle sono: 1
+I pixel grigi della cella sono: 0
+--------------------
+Tempistica totale: 45.7250218391
